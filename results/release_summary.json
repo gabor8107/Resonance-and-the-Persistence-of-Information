@@ -1,0 +1,176 @@
+{
+  "sectors": 54,
+  "rows": 332028,
+  "included_sectors": 53,
+  "included_cadences": 327256,
+  "pipeline": {
+    "core": {
+      "n": 53,
+      "negative_median": 9,
+      "correct": {
+        "Absolute": 37,
+        "R": 15,
+        "R+T": 15,
+        "Combined": 34
+      },
+      "per_target": {
+        "006183128": {
+          "Absolute": 6,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 0
+        },
+        "007021124": {
+          "Absolute": 10,
+          "R": 3,
+          "R+T": 3,
+          "Combined": 10
+        },
+        "007257008": {
+          "Absolute": 0,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 4
+        },
+        "009508655": {
+          "Absolute": 12,
+          "R": 12,
+          "R+T": 12,
+          "Combined": 12
+        },
+        "009697825": {
+          "Absolute": 9,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 8
+        }
+      }
+    },
+    "core_q25": {
+      "n": 53,
+      "negative_median": 0,
+      "correct": {
+        "Absolute": 39,
+        "R": 18,
+        "R+T": 18,
+        "Combined": 38
+      },
+      "per_target": {
+        "006183128": {
+          "Absolute": 6,
+          "R": 1,
+          "R+T": 0,
+          "Combined": 1
+        },
+        "007021124": {
+          "Absolute": 10,
+          "R": 5,
+          "R+T": 5,
+          "Combined": 10
+        },
+        "007257008": {
+          "Absolute": 3,
+          "R": 0,
+          "R+T": 1,
+          "Combined": 4
+        },
+        "009508655": {
+          "Absolute": 12,
+          "R": 12,
+          "R+T": 12,
+          "Combined": 12
+        },
+        "009697825": {
+          "Absolute": 8,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 11
+        }
+      }
+    },
+    "outer": {
+      "n": 53,
+      "negative_median": 1,
+      "correct": {
+        "Absolute": 1,
+        "R": 10,
+        "R+T": 10,
+        "Combined": 3
+      },
+      "per_target": {
+        "006183128": {
+          "Absolute": 0,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 0
+        },
+        "007021124": {
+          "Absolute": 1,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 1
+        },
+        "007257008": {
+          "Absolute": 0,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 0
+        },
+        "009508655": {
+          "Absolute": 0,
+          "R": 10,
+          "R+T": 10,
+          "Combined": 2
+        },
+        "009697825": {
+          "Absolute": 0,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 0
+        }
+      }
+    },
+    "wide": {
+      "n": 53,
+      "negative_median": 9,
+      "correct": {
+        "Absolute": 30,
+        "R": 15,
+        "R+T": 16,
+        "Combined": 26
+      },
+      "per_target": {
+        "006183128": {
+          "Absolute": 2,
+          "R": 0,
+          "R+T": 0,
+          "Combined": 0
+        },
+        "007021124": {
+          "Absolute": 10,
+          "R": 3,
+          "R+T": 3,
+          "Combined": 10
+        },
+        "007257008": {
+          "Absolute": 4,
+          "R": 0,
+          "R+T": 1,
+          "Combined": 2
+        },
+        "009508655": {
+          "Absolute": 12,
+          "R": 12,
+          "R+T": 11,
+          "Combined": 12
+        },
+        "009697825": {
+          "Absolute": 2,
+          "R": 0,
+          "R+T": 1,
+          "Combined": 2
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+retained_fraction,n_assignments,n_sources,absolute_correct,R_correct,R_T_correct,combined_correct,note
+1.0,850,17,700,375,450,675,exploratory; repeated trials share sources
+0.75,850,17,614,274,314,595,exploratory; repeated trials share sources
+0.5,850,17,510,179,199,498,exploratory; repeated trials share sources
+0.25,850,17,314,103,114,325,exploratory; repeated trials share sources

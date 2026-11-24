@@ -1,0 +1,74 @@
+{
+  "tess": {
+    "matched_quality0_finite_SAP_samples": 6205,
+    "pearson_r": 0.9969551454992137,
+    "missingness_auc_using_flux": 0.9995829606192106,
+    "interpretation": "shared variability or contamination candidate, NOT two independent physical sources"
+  },
+  "tess_sampling_control": {
+    "harmonic_reference_frequency_cpd": 1.7643,
+    "harmonics_used": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tic_159717535_ratios": [
+      0.8741401043780443,
+      0.5284583747221274,
+      0.15450881999991123
+    ],
+    "tic_159717461_full_ratios": [
+      0.518894807278207,
+      0.36377996889219427,
+      0.22311136147283947
+    ],
+    "tic_159717461_matched_ratios": [
+      0.8650302235848922,
+      0.5273769090348491,
+      0.155006020637672
+    ],
+    "RMS_before_matched_sampling": 0.22950999045414464,
+    "RMS_after_matched_sampling": 0.005304297143901091,
+    "RMS_reduction_factor": 43.268690314236345
+  },
+  "kepler_inventory": {
+    "n_lightcurves": 17,
+    "n_rows": 895400
+  },
+  "v05_published_summary_only": [
+    {
+      "retained_fraction": 1.0,
+      "n": 850,
+      "absolute_pct": 82.3529,
+      "R_pct": 44.1176,
+      "R_T_pct": 52.9412,
+      "combined_pct": 79.4118
+    },
+    {
+      "retained_fraction": 0.75,
+      "n": 850,
+      "absolute_pct": 72.2353,
+      "R_pct": 32.2353,
+      "R_T_pct": 36.9412,
+      "combined_pct": 70.0
+    },
+    {
+      "retained_fraction": 0.5,
+      "n": 850,
+      "absolute_pct": 60.0,
+      "R_pct": 21.0588,
+      "R_T_pct": 23.4118,
+      "combined_pct": 58.5882
+    },
+    {
+      "retained_fraction": 0.25,
+      "n": 850,
+      "absolute_pct": 36.9412,
+      "R_pct": 12.1176,
+      "R_T_pct": 13.4118,
+      "combined_pct": 38.2353
+    }
+  ],
+  "reproducibility_scope": "Recomputes public QC and summary metrics. Does NOT re-run undisclosed MRIT feature extraction or prove classifier performance."
+}
