@@ -1,5 +1,7 @@
 # Resonance and the Persistence of Information
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24509694.svg)](https://doi.org/10.5281/zenodo.24509694)
+
 *An Exploratory Framework for Source Identity, Pattern Recognition and Information Loss in Oscillatory Systems*
 
 P. Gabor | Independent researcher, Hungary | Research release v0.5 | 24 November 2026
